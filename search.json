@@ -1,0 +1,261 @@
+[
+  {
+    "objectID": "participant.html",
+    "href": "participant.html",
+    "title": "For Participants",
+    "section": "",
+    "text": "A real piece of code you’re working on. It doesn’t need to be:\n\nFinished\nWorking correctly\nWell-organised\nIn a language your partner knows\n\nIf you’re not sure what to bring, pick a script you run regularly. There’s almost always something to improve, explain, or make clearer."
+  },
+  {
+    "objectID": "participant.html#what-to-bring",
+    "href": "participant.html#what-to-bring",
+    "title": "For Participants",
+    "section": "",
+    "text": "A real piece of code you’re working on. It doesn’t need to be:\n\nFinished\nWorking correctly\nWell-organised\nIn a language your partner knows\n\nIf you’re not sure what to bring, pick a script you run regularly. There’s almost always something to improve, explain, or make clearer."
+  },
+  {
+    "objectID": "participant.html#the-two-roles",
+    "href": "participant.html#the-two-roles",
+    "title": "For Participants",
+    "section": "The two roles",
+    "text": "The two roles\nDriver — controls the keyboard and types. Focuses on the immediate task: writing, reading, and editing code.\nNavigator — watches, thinks ahead, and asks questions. Focuses on the bigger picture: does this approach make sense, are there edge cases, what should happen next?\nSwitch roles regularly — every 10–15 minutes, or when you reach a natural pause."
+  },
+  {
+    "objectID": "participant.html#before-you-start-each-round",
+    "href": "participant.html#before-you-start-each-round",
+    "title": "For Participants",
+    "section": "Before you start each round",
+    "text": "Before you start each round\n\nGive your partner a 2-minute tour of your code: what does it do, what are you working on, where are you stuck?\nAgree who drives first"
+  },
+  {
+    "objectID": "participant.html#while-youre-pairing",
+    "href": "participant.html#while-youre-pairing",
+    "title": "For Participants",
+    "section": "While you’re pairing",
+    "text": "While you’re pairing\n\n\nIf you’re the driver\n\nTalk through what you’re doing as you type\nAsk the navigator before making big changes\nDon’t feel you have to type quickly — thinking out loud matters more\n\n\nIf you’re the navigator\n\nAsk questions freely — “what does this variable hold?”\nDon’t grab the keyboard; say what you’d try and let the driver type it\nWatch for typos and logic errors the driver might miss\n\n\n\nBoth of you\n\nIt’s fine not to solve the problem — the conversation is the point\nMessy, unfinished code is normal and expected; no judgement\nIf you’re stuck, say so — “I have no idea what this does” is a useful thing to say"
+  },
+  {
+    "objectID": "participant.html#things-that-often-come-up-in-sessions",
+    "href": "participant.html#things-that-often-come-up-in-sessions",
+    "title": "For Participants",
+    "section": "Things that often come up in sessions",
+    "text": "Things that often come up in sessions\n\nA tool or library your partner uses that you haven’t seen before\nA different way of approaching a problem you’ve been stuck on\nSomething you’ve been doing for years that turns out to have a neater solution\nA bug that you spotted the moment you had to explain the code out loud"
+  },
+  {
+    "objectID": "docs/participant-reference.html",
+    "href": "docs/participant-reference.html",
+    "title": "Pair Programming: Participant Reference",
+    "section": "",
+    "text": "Driver — controls the keyboard and types. Focuses on the immediate task: writing, reading, and editing code.\nNavigator — watches, thinks ahead, and asks questions. Focuses on the bigger picture: does this approach make sense, are there edge cases, what should happen next?\nSwitch roles regularly — every 10–15 minutes, or when you reach a natural pause.\n\n\n\n\nGive your partner a 2-minute tour of your code: what does it do, what are you working on, where are you stuck?\nAgree who drives first\n\n\n\n\nIf you’re the driver - Talk through what you’re doing as you type — “I’m looping over the samples here because…” - Ask the navigator before making big changes — “should I refactor this function or keep going?”\nIf you’re the navigator - Ask questions freely — “what does this variable hold?” or “why does this need to be a list?” - Don’t grab the keyboard; instead say what you’d try and let the driver type it - Watch for typos and logic errors the driver might miss\nBoth of you - It’s fine not to solve the problem — the conversation is the point - Messy, unfinished code is normal and expected; no judgement - If you’re stuck, say so — “I have no idea what this does” is a useful thing to say\n\n\n\nA real piece of code you’re working on. It doesn’t need to: - Be finished - Work correctly - Be well-organised - Be in a language your partner knows\nIf you’re not sure what to bring, pick a script you run regularly. There’s almost always something to improve, explain, or make clearer.\n\n\n\n\nA tool or library your partner uses that you haven’t seen before\nA different way of approaching a problem you’ve been stuck on\nSomething you’ve been doing for years that turns out to have a neater solution\nA bug that you spotted the moment you had to explain the code out loud"
+  },
+  {
+    "objectID": "docs/participant-reference.html#the-two-roles",
+    "href": "docs/participant-reference.html#the-two-roles",
+    "title": "Pair Programming: Participant Reference",
+    "section": "",
+    "text": "Driver — controls the keyboard and types. Focuses on the immediate task: writing, reading, and editing code.\nNavigator — watches, thinks ahead, and asks questions. Focuses on the bigger picture: does this approach make sense, are there edge cases, what should happen next?\nSwitch roles regularly — every 10–15 minutes, or when you reach a natural pause."
+  },
+  {
+    "objectID": "docs/participant-reference.html#before-you-start",
+    "href": "docs/participant-reference.html#before-you-start",
+    "title": "Pair Programming: Participant Reference",
+    "section": "",
+    "text": "Give your partner a 2-minute tour of your code: what does it do, what are you working on, where are you stuck?\nAgree who drives first"
+  },
+  {
+    "objectID": "docs/participant-reference.html#while-youre-pairing",
+    "href": "docs/participant-reference.html#while-youre-pairing",
+    "title": "Pair Programming: Participant Reference",
+    "section": "",
+    "text": "If you’re the driver - Talk through what you’re doing as you type — “I’m looping over the samples here because…” - Ask the navigator before making big changes — “should I refactor this function or keep going?”\nIf you’re the navigator - Ask questions freely — “what does this variable hold?” or “why does this need to be a list?” - Don’t grab the keyboard; instead say what you’d try and let the driver type it - Watch for typos and logic errors the driver might miss\nBoth of you - It’s fine not to solve the problem — the conversation is the point - Messy, unfinished code is normal and expected; no judgement - If you’re stuck, say so — “I have no idea what this does” is a useful thing to say"
+  },
+  {
+    "objectID": "docs/participant-reference.html#what-to-bring",
+    "href": "docs/participant-reference.html#what-to-bring",
+    "title": "Pair Programming: Participant Reference",
+    "section": "",
+    "text": "A real piece of code you’re working on. It doesn’t need to: - Be finished - Work correctly - Be well-organised - Be in a language your partner knows\nIf you’re not sure what to bring, pick a script you run regularly. There’s almost always something to improve, explain, or make clearer."
+  },
+  {
+    "objectID": "docs/participant-reference.html#things-that-often-come-up-in-sessions",
+    "href": "docs/participant-reference.html#things-that-often-come-up-in-sessions",
+    "title": "Pair Programming: Participant Reference",
+    "section": "",
+    "text": "A tool or library your partner uses that you haven’t seen before\nA different way of approaching a problem you’ve been stuck on\nSomething you’ve been doing for years that turns out to have a neater solution\nA bug that you spotted the moment you had to explain the code out loud"
+  },
+  {
+    "objectID": "slides.html#why-were-here",
+    "href": "slides.html#why-were-here",
+    "title": "Pair Programming",
+    "section": "Why we’re here",
+    "text": "Why we’re here\nResearchers who code often:\n\nLearned by trial and error, or by Googling\nWork alone on their code\nHave no obvious way to get feedback or learn from peers\n\nThis workshop is about changing that — without requiring formal training or preparation."
+  },
+  {
+    "objectID": "slides.html#what-is-pair-programming",
+    "href": "slides.html#what-is-pair-programming",
+    "title": "Pair Programming",
+    "section": "What is pair programming?",
+    "text": "What is pair programming?\nTwo people. One computer. One piece of code.\n\nOne person drives — they type\nOne person navigates — they think, question, and guide\nYou switch roles regularly"
+  },
+  {
+    "objectID": "slides.html#the-driver",
+    "href": "slides.html#the-driver",
+    "title": "Pair Programming",
+    "section": "The driver",
+    "text": "The driver\n\n\n\nControls the keyboard. Focuses on the immediate task.\n\n\n\n\nType and talk at the same time — “I’m looping over samples here because…”\nAsk the navigator before making big changes\nDon’t feel you have to move quickly"
+  },
+  {
+    "objectID": "slides.html#the-navigator",
+    "href": "slides.html#the-navigator",
+    "title": "Pair Programming",
+    "section": "The navigator",
+    "text": "The navigator\n\n\n\nWatches, thinks ahead, and asks questions.\n\n\n\n\nAsk freely — “what does this variable hold?”\nDon’t grab the keyboard — say what you’d try, let the driver type it\nWatch for errors the driver might miss while typing"
+  },
+  {
+    "objectID": "slides.html#what-to-bring",
+    "href": "slides.html#what-to-bring",
+    "title": "Pair Programming",
+    "section": "What to bring",
+    "text": "What to bring\nA piece of code you’re working on.\nIt does not need to be:\n\nFinished\nWorking\nTidy\nIn a language your partner knows\n\nIf you’re unsure: bring a script you run regularly."
+  },
+  {
+    "objectID": "slides.html#what-makes-a-good-session",
+    "href": "slides.html#what-makes-a-good-session",
+    "title": "Pair Programming",
+    "section": "What makes a good session",
+    "text": "What makes a good session\n\nTalk out loud — the conversation is the value, not the output\nAsk freely — “I don’t understand this” is useful, not embarrassing\nNo judgement — messy code is expected and normal\nIt’s fine not to solve anything — you’ll still learn something"
+  },
+  {
+    "objectID": "slides.html#todays-format",
+    "href": "slides.html#todays-format",
+    "title": "Pair Programming",
+    "section": "Today’s format",
+    "text": "Today’s format\n\n\n\nTime\nActivity\n\n\n\n\nNow\nThis talk (~20 min)\n\n\n+20 min\nRound 1 — pair A’s code (~25 min)\n\n\n+45 min\nBreak + new partners (~5 min)\n\n\n+50 min\nRound 2 — pair B’s code (~25 min)\n\n\n+75 min\nOptional round 3 or open hacking\n\n\n+105 min\nDebrief together"
+  },
+  {
+    "objectID": "slides.html#lets-get-started",
+    "href": "slides.html#lets-get-started",
+    "title": "Pair Programming",
+    "section": "Let’s get started",
+    "text": "Let’s get started\nYour pairings for round 1:\n\n\n\n(Facilitator: reveal or read out pairings here)\n\n\n\nBefore you start: give your partner a 2-minute tour of your code — what it does, what you’re working on, where you’re stuck.\nDecide who drives first. Timer starts now."
+  },
+  {
+    "objectID": "facilitator.html",
+    "href": "facilitator.html",
+    "title": "For Facilitators",
+    "section": "",
+    "text": "Logistics\n\nBook a room with tables big enough for two people to sit side by side at one laptop\nAim for 6–16 participants; pairs of 2 work best, so keep numbers even if possible\nPrepare a random pairing list in advance (or use a random name picker on the day)\n\nWhat to ask participants to bring\n\nA laptop\nA piece of code they’re actively working on — doesn’t need to be finished or working\nNo other preparation — the whole point is to work on real problems"
+  },
+  {
+    "objectID": "facilitator.html#before-the-event",
+    "href": "facilitator.html#before-the-event",
+    "title": "For Facilitators",
+    "section": "",
+    "text": "Logistics\n\nBook a room with tables big enough for two people to sit side by side at one laptop\nAim for 6–16 participants; pairs of 2 work best, so keep numbers even if possible\nPrepare a random pairing list in advance (or use a random name picker on the day)\n\nWhat to ask participants to bring\n\nA laptop\nA piece of code they’re actively working on — doesn’t need to be finished or working\nNo other preparation — the whole point is to work on real problems"
+  },
+  {
+    "objectID": "facilitator.html#the-intro-talk-20-minutes",
+    "href": "facilitator.html#the-intro-talk-20-minutes",
+    "title": "For Facilitators",
+    "section": "The intro talk (~20 minutes)",
+    "text": "The intro talk (~20 minutes)\nSuggested structure:\n\nWhy we’re here (5 min) — researchers who code often work in isolation; pair programming is a way to learn from peers without needing formal training\nHow pair programming works (5 min) — explain driver/navigator roles; emphasise that switching regularly is the key mechanic\nWhat makes a good session (5 min) — talk out loud, ask questions freely, no judgement on messy code\nWhat to expect today (5 min) — walk through the format, answer questions\n\n\n\n\n\n\n\nTip\n\n\n\nThe slide deck covers all of this — you can use it as-is or adapt it.\n\n\nKey points to land:\n\nThe navigator’s job is to ask questions and think ahead, not to watch silently\n“I don’t understand what this does” is a useful thing to say, not an embarrassing one\nIt’s fine if you don’t solve anything — the conversation is the value"
+  },
+  {
+    "objectID": "facilitator.html#running-the-rounds",
+    "href": "facilitator.html#running-the-rounds",
+    "title": "For Facilitators",
+    "section": "Running the rounds",
+    "text": "Running the rounds\nPairing\n\nReveal pairings at the start of each round\nMix experience levels where possible — a more experienced coder paired with a less experienced one usually works well in both directions\nIn round 2, try to pair people who haven’t worked together yet\n\nStarting a round\n\nRemind pairs to decide who drives first\nSuggest the owner of the code gives a 2-minute tour of what it does and what they’re stuck on\nSet a visible timer\n\nMid-round\n\nWalk the room quietly; you don’t need to intervene unless a pair looks stuck or silent\nIf a pair finishes their problem early, prompt them to switch roles and keep going, or start on the second person’s code early\n\nEnding a round\n\nGive a 2-minute warning\nAsk pairs to reach a stopping point rather than stopping mid-thought"
+  },
+  {
+    "objectID": "facilitator.html#debrief-15-minutes",
+    "href": "facilitator.html#debrief-15-minutes",
+    "title": "For Facilitators",
+    "section": "Debrief (~15 minutes)",
+    "text": "Debrief (~15 minutes)\nBring the group back together. Useful prompts:\n\nWhat did you learn that surprised you?\nDid you see a tool or technique you hadn’t heard of?\nWhat would make the next session more useful?\n\nCollect this feedback — it’s useful for iterating the format and for SSI reporting."
+  },
+  {
+    "objectID": "facilitator.html#common-issues",
+    "href": "facilitator.html#common-issues",
+    "title": "For Facilitators",
+    "section": "Common issues",
+    "text": "Common issues\n\n\n\n\n\n\n\nIssue\nResponse\n\n\n\n\n“I don’t have any code to bring”\nSuggest a script they use regularly — there’s almost always something to improve\n\n\nVery mismatched skill levels\nUsually fine; less experienced people ask good questions, more experienced people learn by explaining\n\n\nPairs going quiet\nPrompt the navigator: “try asking them to walk you through what this line does”\n\n\nCode that won’t run on the navigator’s machine\nThat’s fine — the driver controls the keyboard, navigator looks at the screen"
+  },
+  {
+    "objectID": "docs/facilitator-guide.html",
+    "href": "docs/facilitator-guide.html",
+    "title": "Facilitator Guide",
+    "section": "",
+    "text": "Logistics - Book a room with tables big enough for two people to sit side by side at one laptop - Ask participants to bring their laptops with a piece of code they’re actively working on — doesn’t need to be finished or even working - Aim for 6–16 participants; pairs of 2 work best, so keep numbers even if possible - Prepare a random pairing list in advance (or use a random name picker on the day)\nWhat participants should bring - A laptop - A piece of code they’d like to improve, debug, or understand better - No special preparation beyond that — the whole point is to work on real problems\n\n\n\nThis sets up the mental model participants need. Suggested structure:\n\nWhy we’re here (5 min) — researchers who code often work in isolation; pair programming is a way to learn from peers without needing formal training\nHow pair programming works (5 min) — explain driver/navigator roles; emphasise that switching regularly is the key mechanic\nWhat makes a good session (5 min) — talk out loud, ask questions freely, no judgement on messy code\nWhat to expect today (5 min) — walk through the format, answer questions\n\nKey points to land: - The navigator’s job is to ask questions and think ahead, not to watch silently - “I don’t understand what this does” is a useful thing to say, not an embarrassing one - It’s fine if you don’t solve anything in 25 minutes — the conversation is the value\n\n\n\nPairing - Reveal pairings at the start of each round - Mix experience levels where possible — a more experienced coder paired with a less experienced one usually works well in both directions - In round 2, try to pair people who haven’t worked together yet\nStarting a round - Remind pairs to decide who drives first - Suggest the owner of the code gives a 2-minute tour of what it does and what they’re stuck on - Set a visible timer\nMid-round - Walk the room quietly; you don’t need to intervene unless a pair looks stuck or silent - If a pair finishes their problem early, prompt them to switch driver/navigator and keep going, or start on the second person’s code early\nEnding a round - Give a 2-minute warning before the timer - Ask pairs to reach a stopping point rather than stopping mid-thought\n\n\n\nBring the group back together and run a brief retrospective. Useful prompts: - What did you learn that surprised you? - Did you see a tool or technique you hadn’t heard of? - What would make the next session more useful?\nCollect this feedback — it’s useful for iterating the format and for SSI reporting.\n\n\n\n“I don’t have any code to bring” — suggest they bring a script they use regularly, even if it works fine; there’s usually something to improve or explain\nVery mismatched skill levels — usually fine; the less experienced person asks good questions, the more experienced person learns by explaining\nPairs going quiet — sometimes people need a prompt; suggest the navigator ask “walk me through what this line does”\nCode that won’t run on the navigator’s machine — that’s fine; the driver controls the keyboard, the navigator looks at the screen"
+  },
+  {
+    "objectID": "docs/facilitator-guide.html#before-the-event",
+    "href": "docs/facilitator-guide.html#before-the-event",
+    "title": "Facilitator Guide",
+    "section": "",
+    "text": "Logistics - Book a room with tables big enough for two people to sit side by side at one laptop - Ask participants to bring their laptops with a piece of code they’re actively working on — doesn’t need to be finished or even working - Aim for 6–16 participants; pairs of 2 work best, so keep numbers even if possible - Prepare a random pairing list in advance (or use a random name picker on the day)\nWhat participants should bring - A laptop - A piece of code they’d like to improve, debug, or understand better - No special preparation beyond that — the whole point is to work on real problems"
+  },
+  {
+    "objectID": "docs/facilitator-guide.html#the-intro-talk-20-minutes",
+    "href": "docs/facilitator-guide.html#the-intro-talk-20-minutes",
+    "title": "Facilitator Guide",
+    "section": "",
+    "text": "This sets up the mental model participants need. Suggested structure:\n\nWhy we’re here (5 min) — researchers who code often work in isolation; pair programming is a way to learn from peers without needing formal training\nHow pair programming works (5 min) — explain driver/navigator roles; emphasise that switching regularly is the key mechanic\nWhat makes a good session (5 min) — talk out loud, ask questions freely, no judgement on messy code\nWhat to expect today (5 min) — walk through the format, answer questions\n\nKey points to land: - The navigator’s job is to ask questions and think ahead, not to watch silently - “I don’t understand what this does” is a useful thing to say, not an embarrassing one - It’s fine if you don’t solve anything in 25 minutes — the conversation is the value"
+  },
+  {
+    "objectID": "docs/facilitator-guide.html#running-the-rounds",
+    "href": "docs/facilitator-guide.html#running-the-rounds",
+    "title": "Facilitator Guide",
+    "section": "",
+    "text": "Pairing - Reveal pairings at the start of each round - Mix experience levels where possible — a more experienced coder paired with a less experienced one usually works well in both directions - In round 2, try to pair people who haven’t worked together yet\nStarting a round - Remind pairs to decide who drives first - Suggest the owner of the code gives a 2-minute tour of what it does and what they’re stuck on - Set a visible timer\nMid-round - Walk the room quietly; you don’t need to intervene unless a pair looks stuck or silent - If a pair finishes their problem early, prompt them to switch driver/navigator and keep going, or start on the second person’s code early\nEnding a round - Give a 2-minute warning before the timer - Ask pairs to reach a stopping point rather than stopping mid-thought"
+  },
+  {
+    "objectID": "docs/facilitator-guide.html#debrief-15-minutes",
+    "href": "docs/facilitator-guide.html#debrief-15-minutes",
+    "title": "Facilitator Guide",
+    "section": "",
+    "text": "Bring the group back together and run a brief retrospective. Useful prompts: - What did you learn that surprised you? - Did you see a tool or technique you hadn’t heard of? - What would make the next session more useful?\nCollect this feedback — it’s useful for iterating the format and for SSI reporting."
+  },
+  {
+    "objectID": "docs/facilitator-guide.html#common-issues",
+    "href": "docs/facilitator-guide.html#common-issues",
+    "title": "Facilitator Guide",
+    "section": "",
+    "text": "“I don’t have any code to bring” — suggest they bring a script they use regularly, even if it works fine; there’s usually something to improve or explain\nVery mismatched skill levels — usually fine; the less experienced person asks good questions, the more experienced person learns by explaining\nPairs going quiet — sometimes people need a prompt; suggest the navigator ask “walk me through what this line does”\nCode that won’t run on the navigator’s machine — that’s fine; the driver controls the keyboard, the navigator looks at the screen"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Pair Programming Workshop",
+    "section": "",
+    "text": "Many researchers — especially bioinformaticians — write code as part of their work but have had little formal software training. This workshop uses pair programming as a low-barrier way to share skills, build confidence, and learn from peers."
+  },
+  {
+    "objectID": "index.html#what-is-pair-programming",
+    "href": "index.html#what-is-pair-programming",
+    "title": "Pair Programming Workshop",
+    "section": "What is pair programming?",
+    "text": "What is pair programming?\nTwo people work on one piece of code together, at one computer. One person types (the driver); the other thinks about direction and catches issues (the navigator). They switch regularly.\nUnlike code review, you don’t need to understand someone else’s code before you arrive — you bring your own work, so you’re immediately useful to your partner."
+  },
+  {
+    "objectID": "index.html#why-it-works-for-researchers",
+    "href": "index.html#why-it-works-for-researchers",
+    "title": "Pair Programming Workshop",
+    "section": "Why it works for researchers",
+    "text": "Why it works for researchers\n\nNo preparation needed — bring a script you’re working on, finished or not\nReal knowledge transfer — you learn by doing, not watching\nCross-pollination — a computational biologist and a genomics analyst may use completely different tools; working together surfaces things neither knew about\nLow stakes — messy, half-finished code is expected and welcome"
+  },
+  {
+    "objectID": "index.html#event-format",
+    "href": "index.html#event-format",
+    "title": "Pair Programming Workshop",
+    "section": "Event format",
+    "text": "Event format\n\n\n\nTime\nActivity\n\n\n\n\n0:00\nWelcome and intro talk (~20 min)\n\n\n0:20\nRound 1 — pair A works on person 1’s code (~25 min)\n\n\n0:45\nShort break and partner swap (~5 min)\n\n\n0:50\nRound 2 — pair B works on person 2’s code (~25 min)\n\n\n1:15\nOptional round 3 or open hacking (~30 min)\n\n\n1:45\nDebrief and close (~15 min)\n\n\n\nParticipants are paired randomly, and pairings rotate each round."
+  },
+  {
+    "objectID": "index.html#get-involved",
+    "href": "index.html#get-involved",
+    "title": "Pair Programming Workshop",
+    "section": "Get involved",
+    "text": "Get involved\n\n\n\n\n\n\nNoteSign up for the next event\n\n\n\nSign up → Leave feedback →\n(Links to follow once event dates are confirmed)\n\n\n\nThese materials are part of an SSI Fellowship project exploring peer learning for research software developers."
+  }
+]
