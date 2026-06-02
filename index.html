@@ -127,7 +127,8 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#what-is-pair-programming" id="toc-what-is-pair-programming" class="nav-link active" data-scroll-target="#what-is-pair-programming">What is pair programming?</a></li>
   <li><a href="#why-it-works-for-researchers" id="toc-why-it-works-for-researchers" class="nav-link" data-scroll-target="#why-it-works-for-researchers">Why it works for researchers</a></li>
   <li><a href="#event-format" id="toc-event-format" class="nav-link" data-scroll-target="#event-format">Event format</a></li>
-  <li><a href="#get-involved" id="toc-get-involved" class="nav-link" data-scroll-target="#get-involved">Get involved</a></li>
+  <li><a href="#beyond-the-workshop" id="toc-beyond-the-workshop" class="nav-link" data-scroll-target="#beyond-the-workshop">Beyond the workshop</a></li>
+  <li><a href="#further-reading-and-watching" id="toc-further-reading-and-watching" class="nav-link" data-scroll-target="#further-reading-and-watching">Further reading and watching</a></li>
   </ul>
 </nav>
     </div>
@@ -205,26 +206,25 @@ ul.task-list li input[type="checkbox"] {
 </tr>
 </tbody>
 </table>
-<p>Participants are paired randomly, and pairings rotate each round.</p>
+<p>Participants are paired randomly within shared language groups, and pairings rotate each round.</p>
 </section>
-<section id="get-involved" class="level2">
-<h2 class="anchored" data-anchor-id="get-involved">Get involved</h2>
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Note</span>Sign up for the next event
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p><a href="#" class="btn btn-primary"><strong>Sign up →</strong></a> <a href="#" class="btn btn-outline-secondary"><strong>Leave feedback →</strong></a></p>
-<p><em>(Links to follow once event dates are confirmed)</em></p>
-</div>
-</div>
+<section id="beyond-the-workshop" class="level2">
+<h2 class="anchored" data-anchor-id="beyond-the-workshop">Beyond the workshop</h2>
+<p>A single session is a good start — but the real value comes from making pairing a habit.</p>
+<p>We’d encourage you to <strong>find a buddy for every new project</strong>, not just come to organised events. The start of a project is an especially good time to pair: when you’re making design decisions, writing the first functions, or setting up your file structure, a second pair of eyes catches things that are hard to unpick later.</p>
+<p>If you’d like to be matched with someone new — a different lab, a different tool set, a different experience level — get in touch and we’ll make an introduction. Sign up below to stay in the pool.</p>
+</section>
+<section id="further-reading-and-watching" class="level2">
+<h2 class="anchored" data-anchor-id="further-reading-and-watching">Further reading and watching</h2>
+<p>If you’d like to go deeper on the ideas behind pair programming:</p>
+<ul>
+<li><a href="https://martinfowler.com/articles/on-pair-programming.html"><strong>On Pair Programming</strong></a> — Böckeler &amp; Siessegger, via Martin Fowler’s blog. The most thorough practical guide available: covers techniques, common objections, and remote pairing.</li>
+<li><a href="https://tuple.app/pair-programming-guide/scientific-research-into-pair-programming"><strong>Scientific research into pair programming</strong></a> — Tuple’s summary of five key empirical studies. Useful if you want to point a sceptical colleague at the evidence.</li>
+<li><a href="https://en.wikipedia.org/wiki/Pair_programming"><strong>Pair programming — Wikipedia</strong></a> — well-sourced overview with references to the underlying academic literature.</li>
+<li><a href="https://www.youtube.com/watch?v=R04qyUVo2kE"><strong>All About Pair Programming (AMA)</strong></a> — Ben Orenstein of Tuple answers common questions. Good as a pre-event watch.</li>
+</ul>
 <hr>
-<p><em>These materials are part of an <a href="https://www.software.ac.uk/fellowships">SSI Fellowship</a> project exploring peer learning for research software developers.</em></p>
+<p><em>These materials are part of an <a href="https://www.software.ac.uk/programmes/fellowship-programme">SSI Fellowship</a> project exploring peer learning for research software developers.</em></p>
 
 
 </section>
@@ -303,7 +303,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/H-Mateus\.github\.io\/pair-programming-workshop\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
@@ -640,7 +640,7 @@ ul.task-list li input[type="checkbox"] {
       &nbsp;
     </div>
     <div class="nav-footer-right">
-<p>Source on <a href="https://github.com/UKDRI/ssi-pair-programming">GitHub</a></p>
+<p>Source on <a href="https://github.com/h-mateus/pair-programming-workshop">GitHub</a></p>
 </div>
   </div>
 </footer>

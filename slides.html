@@ -6,7 +6,9 @@
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/light-border.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/quarto-contrib/quarto-timer-1.0.0/timer.js"></script>
+<link href="site_libs/quarto-contrib/quarto-timer-1.0.0/timer.css" rel="stylesheet"><meta charset="utf-8">
   <meta name="generator" content="quarto-1.9.38">
 
   <title>Pair Programming Workshop – Pair Programming</title>
@@ -144,7 +146,7 @@
 <li>Work alone on their code</li>
 <li>Have no obvious way to get feedback or learn from peers</li>
 </ul>
-<p>This workshop is about changing that — without requiring formal training or preparation.</p>
+<p>This workshop is about changing that, without requiring formal training or preparation.</p>
 </section>
 <section id="what-is-pair-programming" class="slide level2">
 <h2>What is pair programming?</h2>
@@ -193,7 +195,6 @@
 <li>Finished</li>
 <li>Working</li>
 <li>Tidy</li>
-<li>In a language your partner knows</li>
 </ul>
 <p>If you’re unsure: bring a script you run regularly.</p>
 </section>
@@ -218,7 +219,7 @@
 <tbody>
 <tr class="odd">
 <td>Now</td>
-<td>This talk (~20 min)</td>
+<td>This talk</td>
 </tr>
 <tr class="even">
 <td>+20 min</td>
@@ -245,23 +246,27 @@
 </section>
 <section id="lets-get-started" class="slide level2">
 <h2>Let’s get started</h2>
-<p>Your pairings for round 1:</p>
-<div class="callout callout-important no-icon callout-style-simple">
-<div class="callout-body">
-<div class="callout-content">
-<p><em>(Facilitator: reveal or read out pairings here)</em></p>
-</div>
-</div>
-</div>
+<!-- Your pairings for round 1: -->
+<!---->
+<!-- ::: {.callout-important appearance="minimal"} -->
+<!-- *(Facilitator: reveal or read out pairings here)* -->
+<!-- ::: -->
 <p><strong>Before you start:</strong> give your partner a 2-minute tour of your code — what it does, what you’re working on, where you’re stuck.</p>
 <p>Decide who drives first. Timer starts now.</p>
+                    <div id="round-1"></div>
+                    <script>
+                        document.addEventListener("DOMContentLoaded", function () {
+                            initializeTimer("round-1", 1500, "presentation");
+                        });
+                    </script>
+                
 
 
 </section>
     </div>
   <div class="quarto-auto-generated-content" style="display: none;">
 <div class="footer footer-default">
-<p>SSI Fellowship — Pair Programming Workshop</p>
+<p>SSI Fellowship — Pair Programming Workshop · <a href="https://github.com/h-mateus/pair-programming-workshop">github.com/h-mateus/pair-programming-workshop</a></p>
 </div>
 </div></div>
 
@@ -543,7 +548,7 @@
         }
           var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
           var mailtoRegex = new RegExp(/^mailto:/);
-            var filterRegex = new RegExp('/' + window.location.host + '/');
+            var filterRegex = new RegExp("https:\/\/H-Mateus\.github\.io\/pair-programming-workshop\/");
           var isInternal = (href) => {
               return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
           }

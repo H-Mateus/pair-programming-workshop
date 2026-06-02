@@ -256,7 +256,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/H-Mateus\.github\.io\/pair-programming-workshop\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
@@ -593,7 +593,7 @@ ul.task-list li input[type="checkbox"] {
       &nbsp;
     </div>
     <div class="nav-footer-right">
-<p>Source on <a href="https://github.com/UKDRI/ssi-pair-programming">GitHub</a></p>
+<p>Source on <a href="https://github.com/h-mateus/pair-programming-workshop">GitHub</a></p>
 </div>
   </div>
 </footer>
