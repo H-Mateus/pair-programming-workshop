@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Pair Programming Workshop"
+  description: "A peer learning event for researchers who code"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: participant.qmd
+        text: For participants
+      - href: facilitator.qmd
+        text: For facilitators
+      - href: slides.qmd
+        text: Slides
+  page-footer:
+    left: "Part of an [SSI Fellowship](https://www.software.ac.uk/fellowships)"
+    right: "Source on [GitHub](https://github.com/UKDRI/ssi-pair-programming)"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true

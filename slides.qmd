@@ -1,0 +1,110 @@
+---
+title: "Pair Programming"
+subtitle: "A peer learning workshop for researchers who code"
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    progress: true
+    chalkboard: false
+    footer: "SSI Fellowship — Pair Programming Workshop"
+---
+
+## Why we're here
+
+Researchers who code often:
+
+- Learned by trial and error, or by Googling
+- Work alone on their code
+- Have no obvious way to get feedback or learn from peers
+
+This workshop is about changing that — without requiring formal training or preparation.
+
+---
+
+## What is pair programming?
+
+Two people. One computer. One piece of code.
+
+::: {.incremental}
+- One person **drives** — they type
+- One person **navigates** — they think, question, and guide
+- You **switch roles** regularly
+:::
+
+---
+
+## The driver
+
+::: {.callout-note appearance="minimal"}
+**Controls the keyboard. Focuses on the immediate task.**
+:::
+
+- Type and talk at the same time — "I'm looping over samples here because..."
+- Ask the navigator before making big changes
+- Don't feel you have to move quickly
+
+---
+
+## The navigator
+
+::: {.callout-note appearance="minimal"}
+**Watches, thinks ahead, and asks questions.**
+:::
+
+- Ask freely — "what does this variable hold?"
+- Don't grab the keyboard — say what you'd try, let the driver type it
+- Watch for errors the driver might miss while typing
+
+---
+
+## What to bring
+
+A piece of code you're working on.
+
+It does **not** need to be:
+
+- Finished
+- Working
+- Tidy
+- In a language your partner knows
+
+If you're unsure: bring a script you run regularly.
+
+---
+
+## What makes a good session
+
+::: {.incremental}
+- **Talk out loud** — the conversation is the value, not the output
+- **Ask freely** — "I don't understand this" is useful, not embarrassing
+- **No judgement** — messy code is expected and normal
+- **It's fine not to solve anything** — you'll still learn something
+:::
+
+---
+
+## Today's format
+
+| Time | Activity |
+|------|----------|
+| Now | This talk (~20 min) |
+| +20 min | Round 1 — pair A's code (~25 min) |
+| +45 min | Break + new partners (~5 min) |
+| +50 min | Round 2 — pair B's code (~25 min) |
+| +75 min | Optional round 3 or open hacking |
+| +105 min | Debrief together |
+
+---
+
+## Let's get started
+
+Your pairings for round 1:
+
+::: {.callout-important appearance="minimal"}
+*(Facilitator: reveal or read out pairings here)*
+:::
+
+**Before you start:** give your partner a 2-minute tour of your code — what it does, what you're working on, where you're stuck.
+
+Decide who drives first. Timer starts now.

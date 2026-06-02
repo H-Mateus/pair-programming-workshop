@@ -1,0 +1,68 @@
+---
+title: "For Participants"
+subtitle: "Everything you need to know before and during the session"
+format:
+  html: default
+  pdf:
+    geometry: margin=2cm
+    fontsize: 11pt
+---
+
+## What to bring
+
+A real piece of code you're working on. It doesn't need to be:
+
+- Finished
+- Working correctly
+- Well-organised
+- In a language your partner knows
+
+If you're not sure what to bring, pick a script you run regularly. There's almost always something to improve, explain, or make clearer.
+
+## The two roles
+
+**Driver** — controls the keyboard and types. Focuses on the immediate task: writing, reading, and editing code.
+
+**Navigator** — watches, thinks ahead, and asks questions. Focuses on the bigger picture: does this approach make sense, are there edge cases, what should happen next?
+
+Switch roles regularly — every 10–15 minutes, or when you reach a natural pause.
+
+## Before you start each round
+
+- Give your partner a 2-minute tour of your code: what does it do, what are you working on, where are you stuck?
+- Agree who drives first
+
+## While you're pairing
+
+:::: {.columns}
+
+::: {.column width="50%"}
+**If you're the driver**
+
+- Talk through what you're doing as you type
+- Ask the navigator before making big changes
+- Don't feel you have to type quickly — thinking out loud matters more
+:::
+
+::: {.column width="50%"}
+**If you're the navigator**
+
+- Ask questions freely — "what does this variable hold?"
+- Don't grab the keyboard; say what you'd try and let the driver type it
+- Watch for typos and logic errors the driver might miss
+:::
+
+::::
+
+**Both of you**
+
+- It's fine not to solve the problem — the conversation is the point
+- Messy, unfinished code is normal and expected; no judgement
+- If you're stuck, say so — "I have no idea what this does" is a useful thing to say
+
+## Things that often come up in sessions
+
+- A tool or library your partner uses that you haven't seen before
+- A different way of approaching a problem you've been stuck on
+- Something you've been doing for years that turns out to have a neater solution
+- A bug that you spotted the moment you had to explain the code out loud

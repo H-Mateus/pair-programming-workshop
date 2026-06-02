@@ -1,0 +1,46 @@
+---
+title: "Pair Programming Workshop"
+subtitle: "A peer learning event for researchers who code"
+---
+
+Many researchers — especially bioinformaticians — write code as part of their work but have had little formal software training. This workshop uses pair programming as a low-barrier way to share skills, build confidence, and learn from peers.
+
+## What is pair programming?
+
+Two people work on one piece of code together, at one computer. One person types (the *driver*); the other thinks about direction and catches issues (the *navigator*). They switch regularly.
+
+Unlike code review, you don't need to understand someone else's code before you arrive — you bring your own work, so you're immediately useful to your partner.
+
+## Why it works for researchers
+
+- **No preparation needed** — bring a script you're working on, finished or not
+- **Real knowledge transfer** — you learn by doing, not watching
+- **Cross-pollination** — a computational biologist and a genomics analyst may use completely different tools; working together surfaces things neither knew about
+- **Low stakes** — messy, half-finished code is expected and welcome
+
+## Event format
+
+| Time | Activity |
+|------|----------|
+| 0:00 | Welcome and intro talk (~20 min) |
+| 0:20 | Round 1 — pair A works on person 1's code (~25 min) |
+| 0:45 | Short break and partner swap (~5 min) |
+| 0:50 | Round 2 — pair B works on person 2's code (~25 min) |
+| 1:15 | Optional round 3 or open hacking (~30 min) |
+| 1:45 | Debrief and close (~15 min) |
+
+Participants are paired randomly, and pairings rotate each round.
+
+## Get involved
+
+::: {.callout-note}
+## Sign up for the next event
+
+[**Sign up →**](#){.btn .btn-primary}   [**Leave feedback →**](#){.btn .btn-outline-secondary}
+
+*(Links to follow once event dates are confirmed)*
+:::
+
+---
+
+*These materials are part of an [SSI Fellowship](https://www.software.ac.uk/fellowships) project exploring peer learning for research software developers.*
