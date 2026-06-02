@@ -66,3 +66,21 @@ Switch roles regularly — every 10–15 minutes, or when you reach a natural pa
 - A different way of approaching a problem you've been stuck on
 - Something you've been doing for years that turns out to have a neater solution
 - A bug that you spotted the moment you had to explain the code out loud
+
+## Making it a regular practice
+
+A one-off session is a good introduction — but pairing works best as a habit, not an event.
+
+A few things worth trying after today:
+
+- **Find a buddy for your next project**, not just your current one. The best time to pair is at the very start, when you're making structural decisions that are hard to change later.
+- **Pair with someone different each time.** A collaborator in a different lab, someone who uses a different language or tool, someone at a very different experience level — each pairing teaches you something the last one didn't.
+- **Even occasional pairing helps.** You don't need to pair on every line of code. A 30-minute session at the start of a new analysis, or when you're stuck on something, is enough to get real value.
+
+If you'd like to be matched with a new pairing partner outside of organised events, [get in touch](mailto:gabriel.bernardoharrington@ukdri.ac.uk).
+
+## Further reading and watching
+
+- [**On Pair Programming**](https://martinfowler.com/articles/on-pair-programming.html) — the most thorough practical guide available. Worth reading if you want to go deeper on techniques and common objections.
+- [**Scientific research into pair programming**](https://tuple.app/pair-programming-guide/scientific-research-into-pair-programming) — a readable summary of the empirical evidence, if you want to convince a sceptical colleague.
+- [**All About Pair Programming (AMA)**](https://www.youtube.com/watch?v=R04qyUVo2kE) — Ben Orenstein answers common questions in a live Q&A. Good background watch.

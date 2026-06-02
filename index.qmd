@@ -29,18 +29,26 @@ Unlike code review, you don't need to understand someone else's code before you 
 | 1:15 | Optional round 3 or open hacking (~30 min) |
 | 1:45 | Debrief and close (~15 min) |
 
-Participants are paired randomly, and pairings rotate each round.
+Participants are paired randomly within shared language groups, and pairings rotate each round.
 
-## Get involved
+## Beyond the workshop
 
-::: {.callout-note}
-## Sign up for the next event
+A single session is a good start — but the real value comes from making pairing a habit.
 
-[**Sign up →**](#){.btn .btn-primary}   [**Leave feedback →**](#){.btn .btn-outline-secondary}
+We'd encourage you to **find a buddy for every new project**, not just come to organised events. The start of a project is an especially good time to pair: when you're making design decisions, writing the first functions, or setting up your file structure, a second pair of eyes catches things that are hard to unpick later.
 
-*(Links to follow once event dates are confirmed)*
-:::
+If you'd like to be matched with someone new — a different lab, a different tool set, a different experience level — get in touch and we'll make an introduction. Sign up below to stay in the pool.
+
+## Further reading and watching
+
+If you'd like to go deeper on the ideas behind pair programming:
+
+- [**On Pair Programming**](https://martinfowler.com/articles/on-pair-programming.html) — Böckeler & Siessegger, via Martin Fowler's blog. The most thorough practical guide available: covers techniques, common objections, and remote pairing.
+- [**Scientific research into pair programming**](https://tuple.app/pair-programming-guide/scientific-research-into-pair-programming) — Tuple's summary of five key empirical studies. Useful if you want to point a sceptical colleague at the evidence.
+- [**Pair programming — Wikipedia**](https://en.wikipedia.org/wiki/Pair_programming) — well-sourced overview with references to the underlying academic literature.
+- [**All About Pair Programming (AMA)**](https://www.youtube.com/watch?v=R04qyUVo2kE) — Ben Orenstein of Tuple answers common questions. Good as a pre-event watch.
+
 
 ---
 
-*These materials are part of an [SSI Fellowship](https://www.software.ac.uk/fellowships) project exploring peer learning for research software developers.*
+*These materials are part of an [SSI Fellowship](https://www.software.ac.uk/programmes/fellowship-programme) project exploring peer learning for research software developers.*

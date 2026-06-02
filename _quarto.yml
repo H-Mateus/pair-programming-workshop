@@ -17,7 +17,7 @@ website:
         text: Slides
   page-footer:
     left: "Part of an [SSI Fellowship](https://www.software.ac.uk/fellowships)"
-    right: "Source on [GitHub](https://github.com/UKDRI/ssi-pair-programming)"
+    right: "Source on [GitHub](https://github.com/h-mateus/pair-programming-workshop)"
 
 format:
   html:

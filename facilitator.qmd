@@ -8,7 +8,6 @@ subtitle: "How to organise and run a pair programming workshop"
 **Logistics**
 
 - Book a room with tables big enough for two people to sit side by side at one laptop
-- Aim for 6–16 participants; pairs of 2 work best, so keep numbers even if possible
 - Prepare a random pairing list in advance (or use a random name picker on the day)
 
 **What to ask participants to bring**
